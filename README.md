@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 Nice to meet you :)
 - 🌱 I’m currently learning VueJS and Laravel
 - - 💬 Ask me about data stuctures and algorithms......jk :)
-- - -📫 How to reach me: dzyaninomanasintsoa7@gmail.com
+- - 📫 How to reach me: dzyaninomanasintsoa7@gmail.com
