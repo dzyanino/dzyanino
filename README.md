@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 -->
 Nice to meet you :)
 - 🌱 I’m currently learning VueJS and Laravel
-- - 💬 Ask me about data stuctures and algorithms......jk :)
+- - 💬 Ask me about data stuctures and algorithms in Java or Python......jk :)
 - - 📫 How to reach me: dzyaninomanasintsoa7@gmail.com
