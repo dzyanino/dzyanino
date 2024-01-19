@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there ⸜(˙꒳​˙ )
 
 <!--
 **Dzyanino/Dzyanino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,6 +12,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Nice to meet you :)
-- 🌱 I’m currently learning VueJS and Laravel
-- - 💬 Ask me about data stuctures and algorithms in Java or Python......jk :)
+
+- 🌱 I’m currently learning Web Security 🔒
+  
+- - 💬 Ask me about -  web development 🌐 : Laravel or Vue.js
+                    -  or software development 💻 : C#, Python or Java
+    ### ( but not all at once (˵ •̀ ᴗ - ˵ ) ✧ )
+    
 - - 📫 How to reach me: dzyaninomanasintsoa7@gmail.com
