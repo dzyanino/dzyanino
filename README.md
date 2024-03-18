@@ -1,23 +1,33 @@
 # Hi there ⸜(˙꒳​˙ )
 
-<!--
-**Dzyanino/Dzyanino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
 
-Here are some ideas to get you started:
+### Nice to meet you
+I'm **Dzyanino**, a software developer 😁, or you can just call me **Doneli**, as you wish ✨
 
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-#### Nice to meet you
+I’m currently learning about **Deployement** ⚙️
 
-- 🌱 I’m currently learning Web Security 🔒
-  
-- 💬 Ask me about :
-  -  web development 🌐 : Laravel or Vue.js
-  -  or software development 💻 : C#, Python or Java
-  ##### ( but not all at once (˵ •̀ ᴗ - ˵ ) ✧ )
+<br />
+
+Ask me about :
+
+  - Web development 🌐 :
+    - Laravel
+    - Vue.js
+    - Vuetify
+    - JSP
+    - Express.js
+
+  - Software development 💻 :
+    - C#
+    - Python
+    - Java
+
+  - openSSL 🔒
+<br />
+
+**( but not all at once (˵ •̀ ᴗ - ˵ ) ✧ )**
+
+<br/>
     
-- 📫 How to reach me: dzyaninomanasintsoa7@gmail.com
+📫 How to reach me: *dzyaninomanasintsoa7@gmail.com*
