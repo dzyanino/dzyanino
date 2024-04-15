@@ -22,7 +22,7 @@
 
 <br />
 
-<h3 align="left">🛠️ Languages - Frameworks - Tools :</h3>
+<h3 align="left">🛠️ Languages, Frameworks and Tools :</h3>
 
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
