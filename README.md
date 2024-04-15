@@ -4,7 +4,6 @@
 <h1 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat+Alternates&weight=600&size=24&duration=3500&pause=1500&color=00F77F&center=true&random=false&width=435&lines=Hi+there+%E2%B8%9C(%CB%99%EA%92%B3%E2%80%8B%CB%99+);I'm+Dzyanino;A+web+and+desktop+developer;Got+a+problem+to+solve+%3F;I+can+help+right+away" alt="Typing SVG" /></a>
 </h1>
-<h3 align="center">A Web and Desktop developper</h3>
 <p align="center">
 <a href="https://stackoverflow.com/users/15754682" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15754682" height="30" width="40" /></a>
 <a href="https://fb.com/donelidzyanino.manasintsoa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="doneli dzyanino" height="30" width="40" /></a>
