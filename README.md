@@ -109,6 +109,8 @@
 </div>
 
 <br />
+
+<p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat+Alternates&weight=600&size=28&duration=3500&pause=1500&color=00F77F&center=true&random=false&width=435&lines=Got+a+problem+to+solve+%3F;I+can+help+right+away" alt="Typing SVG" /></a>
 </p>
 
