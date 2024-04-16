@@ -105,9 +105,16 @@
 
 <div>
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dzyanino&show_icons=true&locale=en&layout=compact" alt="dzyanino" /></p>
-  <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=dzyanino&show_icons=true&locale=en" alt="dzyanino" /></p>
+  <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=dzyanino&show_icons=true&locale=en" alt="dzyanino" /></p><br />
 </div>
 
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 <br />
 
 <p align="center">
