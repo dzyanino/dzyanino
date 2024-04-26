@@ -1,6 +1,9 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=dzyanino&label=Profile%20views&color=0e75b6&style=flat" alt="dzyanino" /> </p>
 
 
+![paysage](https://github.com/Dzyanino/Dzyanino/assets/111046359/cb70dc5c-ebe1-4e7b-9a88-f84c25a90d99)
+
+
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat+Alternates&weight=600&size=28&duration=3500&pause=1500&color=00F77F&center=true&random=false&width=435&lines=Hi+there+%E2%B8%9C(%CB%99%EA%92%B3%E2%80%8B%CB%99+);I'm+Dzyanino;A+web+and+desktop+developer" alt="Typing SVG" /></a>
 </p>
