@@ -1,7 +1,6 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=dzyanino&label=Profile%20views&color=0e75b6&style=flat" alt="dzyanino" /> </p>
-
-
 ![paysage](https://github.com/Dzyanino/Dzyanino/assets/111046359/cb70dc5c-ebe1-4e7b-9a88-f84c25a90d99)
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=dzyanino&label=Profile%20views&color=0e75b6&style=flat" alt="dzyanino" /> </p>
 
 
 <p align="center">
