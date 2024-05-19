@@ -23,9 +23,9 @@
 
 <br />
 
-- ⚙️ My projects are available at [dzyanino.github.io/Portfolio](dzyanino.github.io/Portfolio)
+<!--- ⚙️ My projects are available at [dzyanino.github.io/Portfolio](dzyanino.github.io/Portfolio)-->
 
-- 📧 You can send me a mail at **dzyaninomanasintsoa7@gmail.com**
+- 📧 You can send me a mail at **dzyanino@gmail.com**
 
 <br />
 
