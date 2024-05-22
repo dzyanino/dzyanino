@@ -23,7 +23,7 @@
 
 <br />
 
-<!--- ⚙️ My projects are available at [dzyanino.github.io/Portfolio](dzyanino.github.io/Portfolio)-->
+- ⚙️ My projects are available at [dzyanino.com](dzyanino.com)
 
 - 📧 You can send me a mail at **dzyanino@gmail.com**
 
