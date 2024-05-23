@@ -23,7 +23,7 @@
 
 <br />
 
-- ⚙️ My projects are available at [dzyanino.com](dzyanino.com)
+- ⚙️ My projects are available at [dzyanino.com](https://dzyanino.com)
 
 - 📧 You can send me a mail at **dzyanino@gmail.com**
 
