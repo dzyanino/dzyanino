@@ -5,7 +5,7 @@
 
 
 <p align="center">
-<a target="_blank" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat+Alternates&weight=600&size=28&duration=3500&pause=1500&color=0F0F0F&center=true&random=false&width=435&lines=Hi+there+%E2%B8%9C(%CB%99%EA%92%B3%E2%80%8B%CB%99+);I'm+Dzyanino;A+web+and+desktop+developer" alt="Typing SVG" /></a>
+<a target="_blank" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat+Alternates&weight=600&size=28&duration=3500&pause=1500&color=0F0F0F&center=true&random=false&width=435&lines=Hi+there+%E2%B8%9C(%CB%99%EA%92%B3%E2%80%8B%CB%99+);I'm+Dzyanino;A+software+developer" alt="Typing SVG" /></a>
 </p>
 <p align="center">
 <a target="_blank" href="https://stackoverflow.com/users/15754682" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15754682" height="30" width="40" /></a>
