@@ -1,12 +1,25 @@
-![ds](https://github.com/Dzyanino/Dzyanino/assets/111046359/b7e71098-7cf3-4a99-9615-d21832970cf8)
+<!-- ![ds](https://github.com/Dzyanino/Dzyanino/assets/111046359/b7e71098-7cf3-4a99-9615-d21832970cf8) -->
 
+<pre align="center">
+ _____                    _ _    _____                           _             
+(____ \                  | (_)  (____ \                         (_)            
+ _   \ \ ___  ____   ____| |_    _   \ \ _____ _   _  ____ ____  _ ____   ___  
+| |   | / _ \|  _ \ / _  ) | |  | |   | (___  ) | | |/ _  |  _ \| |  _ \ / _ \ 
+| |__/ / |_| | | | ( (/ /| | |  | |__/ / / __/| |_| ( ( | | | | | | | | | |_| |
+|_____/ \___/|_| |_|\____)_|_|  |_____/ (_____)\__  |\_||_|_| |_|_|_| |_|\___/ 
+                                              (____/                           
+
+┌─┐┌─┐┌─┐┌┬┐┬ ┬┌─┐┬─┐┌─┐  ┌┬┐┌─┐┬  ┬┌─┐┬  ┌─┐┌─┐┌─┐┬─┐
+└─┐│ │├┤  │ │││├─┤├┬┘├┤    ││├┤ └┐┌┘├┤ │  │ │├─┘├┤ ├┬┘
+└─┘└─┘└   ┴ └┴┘┴ ┴┴└─└─┘  ─┴┘└─┘ └┘ └─┘┴─┘└─┘┴  └─┘┴└─
+</pre>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=dzyanino&label=Profile%20views&color=0e75b6&style=flat" alt="dzyanino" /> </p>
 
 
-<p align="center">
+<!-- <p align="center">
 <a target="_blank" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat+Alternates&weight=600&size=28&duration=3500&pause=1500&color=0F0F0F&center=true&random=false&width=435&lines=Hi+there+%E2%B8%9C(%CB%99%EA%92%B3%E2%80%8B%CB%99+);I'm+Dzyanino;A+software+developer" alt="Typing SVG" /></a>
-</p>
+</p> -->
 <p align="center">
 <a target="_blank" href="https://stackoverflow.com/users/15754682" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15754682" height="30" width="40" /></a>
 <a target="_blank" href="https://fb.com/donelidzyanino.manasintsoa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="doneli dzyanino" height="30" width="40" /></a>
