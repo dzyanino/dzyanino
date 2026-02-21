@@ -2,4 +2,4 @@
 
 I'm Doneli Dzyanino, a software developer and OSS enthusiast.
 
-You can check my website [dzyanino.github.io/portfolio](https://dzyanino.github.io/portfolio)
+You can check my website [dzyanino.pages.dev](https://dzyanino.pages.dev)
